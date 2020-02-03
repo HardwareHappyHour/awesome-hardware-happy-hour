@@ -2,6 +2,7 @@
 
 - [Berlin](https://www.meetup.com/3HBerlin/)
 - [Chicago](https://www.meetup.com/Hardware-Happy-Hour-3H-Chicago/)
+- [Los Angeles](https://www.meetup.com/Hardware-Happy-Hour-3H-Los-Angeles/)
 - [Louisville](https://gettogether.community/hardware-happy-hour/)
 - [San Francisco](https://www.meetup.com/hardwarehappyhoursf/)
 - [Seattle](https://www.meetup.com/Seattle-Hardware-Happy-Hour-3H/)
